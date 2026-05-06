@@ -1,15 +1,11 @@
-https://zahcomputers.pk/
-https://newiraqenterprises.com/
-https://nuerhappysolutions.com/
-https://myvocalskills.com/
-https://atteccinstitute.com/
-https://thefloatloft.com/
-https://samiraholma.com/
-https://www.kayu.com/
-https://advinfiniti.com/
-
 # My Portfolio
 
-- [Business Website](https://example1.com)
-- [Ecommerce Store](https://example2.com)
-- [Restaurant Website](https://example3.com)
+- [ZAH Computers](https://zahcomputers.pk/)
+- [New Iraq Enterprises](https://newiraqenterprises.com/)
+- [NUER Happy Solutions](https://nuerhappysolutions.com/)
+- [My Vocal Skills](https://myvocalskills.com/)
+- [ATTEC Institute](https://atteccinstitute.com/)
+- [The Float Loft](https://thefloatloft.com/)
+- [Samira Holma](https://samiraholma.com/)
+- [Kayu](https://www.kayu.com/)
+- [Adv Infiniti](https://advinfiniti.com/)
