@@ -9,3 +9,7 @@
 - [Samira Holma](https://samiraholma.com/)
 - [Kayu](https://www.kayu.com/)
 - [Adv Infiniti](https://advinfiniti.com/)
+- [Al Akhbar Al Riyadia](https://alakhbaralriyadia.com/)
+- [Boisvert Gestion Parasitaire](https://boisvertgestionparasitaire.ca/)
+- [AWINA](https://awina.ch/en)
+- [Zixopas Lab](https://zixopaslab.com/)
